@@ -5,8 +5,10 @@
 
 
 <p align="center">
-  <img src="file:///C:/Users/dev/OneDrive/Bureau/PP%20X%20BANNER/main-pp/b15bd596014d9d9310e59b07b85da550.gif" alt="Your Banner" width="600" height="200">
+  <img src="![image](https://github.com/Medicinaldev/Medicinaldev/assets/144840450/0f47aa95-bc3a-4042-ad6a-b755b3c22960)
+" alt="Your Banner" width="600" height="200">
 </p>
+
 
 - I’m currently working on **passwordManager**
 - 📫 How to contact me **m4d1c1n4l@proton.me**
