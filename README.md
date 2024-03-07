@@ -5,8 +5,7 @@
 
 
 <p align="center">
-  <img src="![image](https://github.com/Medicinaldev/Medicinaldev/assets/144840450/0f47aa95-bc3a-4042-ad6a-b755b3c22960)
-" alt="Your Banner" width="600" height="200">
+  <img src="![b15bd596014d9d9310e59b07b85da550](https://github.com/Medicinaldev/Medicinaldev/assets/144840450/7eb30bea-b8fb-487c-be80-d080ac7b1134)" alt="Your Banner" width="600" height="200">
 </p>
 
 
