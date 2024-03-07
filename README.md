@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm medicinal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate cybersecurity & dev enjoyer</h3>
 
 - 📫 How to contact me **m4d1c1n4l@proton.me**
 
 - ⚡ Fun fact **I love cat**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Talk with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m4d1c1n4l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m4d1c1n4l" height="30" width="40" /></a>
 </p>
